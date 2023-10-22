@@ -59,5 +59,5 @@
 
 ###
 
-[![Medium]([https://your-image-url.com](https://medium.com/@omertascioglu?source=---two_column_layout_sidebar----------------------------------)https://medium.com/@omertascioglu?source=---two_column_layout_sidebar----------------------------------)](https://medium.com/@omertascioglu){:width="150px" height="150px"}
+<iframe src="[https://medium.com/p/your-story-url](https://medium.com/@omertascioglu/machine-learning-with-python-0e091b0c7c7a)https://medium.com/@omertascioglu/machine-learning-with-python-0e091b0c7c7a"></iframe>
 
