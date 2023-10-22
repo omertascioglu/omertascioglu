@@ -2,19 +2,19 @@
 
 ###
 
-<p align="left">My name is Ömer Taşçıoğlu, I am a Artificial Intelligence Engineering student in Bahçeşehir University.<br>I am currently work as ML Engineer</p>
+<p align="center">My name is Ömer Taşçıoğlu, I am a Artificial Intelligence Engineering student in Bahçeşehir University.<br>I am currently work as ML Engineer</p>
 
 ###
 
-<p align="left">📚 I'm currently learning:  R, PowerBI, MLOps</p>
+<p align="center">📚 I'm currently learning:  R, PowerBI, MLOps</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
