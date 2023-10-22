@@ -59,5 +59,5 @@
 
 ###
 
-[![Medium]([https://your-image-url.com](https://medium.com/@omertascioglu?source=---two_column_layout_sidebar----------------------------------)https://medium.com/@omertascioglu?source=---two_column_layout_sidebar----------------------------------)](https://medium.com/@omertascioglu)
+[![Medium]([https://your-image-url.com](https://medium.com/@omertascioglu?source=---two_column_layout_sidebar----------------------------------)https://medium.com/@omertascioglu?source=---two_column_layout_sidebar----------------------------------)](https://medium.com/@omertascioglu){:width="150px" height="150px"}
 
