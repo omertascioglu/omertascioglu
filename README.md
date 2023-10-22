@@ -59,6 +59,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=omertascioglu" alt="Layout with last medium posts"  />
-</div>
+[![Medium]([https://your-image-url.com](https://medium.com/@omertascioglu?source=---two_column_layout_sidebar----------------------------------)https://medium.com/@omertascioglu?source=---two_column_layout_sidebar----------------------------------)](https://medium.com/@omertascioglu)
+
