@@ -59,5 +59,3 @@
 
 ###
 
-<iframe src="[https://medium.com/p/your-story-url](https://medium.com/@omertascioglu/machine-learning-with-python-0e091b0c7c7a)https://medium.com/@omertascioglu/machine-learning-with-python-0e091b0c7c7a"></iframe>
-
