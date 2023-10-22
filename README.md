@@ -59,3 +59,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/omertascioglu/omertascioglu/output/snake.svg" alt="Snake animation" />
+
+###
