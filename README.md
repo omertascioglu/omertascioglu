@@ -58,7 +58,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/omertascioglu/omertascioglu/output/snake.svg" alt="Snake animation" />
-
-###
+![Snake animation](https://github.com/omertascioglu/omertascioglu/blob/output/github-contribution-grid-snake.svg)
