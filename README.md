@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Ömer Taşçıoğlu, I am a Artificial Intelligence Engineering student in Bahçeşehir University.<br>I am currently work as ML Engineer</p>
+<p align="center">My name is Ömer Taşçıoğlu, I am a Artificial Intelligence Engineering student in Bahçeşehir University.<br>I am currently working as an ML Engineer</p>
 
 ###
 
