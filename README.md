@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">📚 I'm currently learning:  R, PowerBI, MLOps</p>
+<p align="center">📚 I'm currently learning:  R, RPA, UIPATH</p>
 
 ###
 
